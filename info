@@ -1,3 +1,5 @@
 #!/bin/bash
 echo "Hello my name is Adam Gnatowski"
 echo "My favorite color is Green"
+echo "I am going to Mt.Airy tomorrow and need to pack."
+echo "Goodbye"
