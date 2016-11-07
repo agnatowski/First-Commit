@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "<html>" >> Test.html
+echo "<body>" >> Test.html
+echo "<ul>" >> Test.html
+while read line 
+do 
+   echo "<li> $line" >> Test.html
+done
+echo "</ul>" >> Test.html
+echo "</body>" >> Test.html
+echo "</html>" >> Test.html
