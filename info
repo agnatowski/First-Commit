@@ -1,10 +1,7 @@
 #!/bin/bash
 echo "Hello my name is Adam Gnatowski"
 echo "My favorite color is Green"
-<<<<<<< HEAD
 echo "I am going to Mt.Airy tomorrow and need to pack."
-=======
 echo "My favorite beverage is Blue Powerade"
 echo "My favorite food is Crab Cakes"
 echo "Goodbye, my friend."
->>>>>>> Food
